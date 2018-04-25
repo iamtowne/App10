@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/350bfc1d51958e64c67a90080aba1930b03b4642/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2be07f122fb896cef3e54220515e0920cd6ac721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/023f4729d79cec3d38e9d65b9627c920233aaa2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_152b9fe7d7da45a77ffe08c23cfc27b2e415e209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/39b0ad9f06820068c789160c51841e3cefa05928/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52a0f890e9ab9d8966383cc7ab339faddf7cee0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4932cb3dda0fdf5a7a9592a7dd55591f67e7d104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f42dfde91bb7f15c9988d94c02427f3ee50dc4f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/c1aad87ac301b4bcb3597468fec113ca23e92a91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_826ee15776a598c5cb26fca91f8955c30e377662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/7944b84f396c03e631a6e6168747330af9aa837a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f94857a46b91a389d3c034fe8049c3932ea048d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/ce950d5001f588c08cf73b69e8fbda704bd8eb7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55aaa21f6f2521bc1b90a1f0e4611e6f0b16ffc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/6dcae618028e363d9d465e10febb716e1ef6bce5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66706687b3d822fa37240591e07ef309a7cbfdc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/d23209aa504e7162d88a2058e5cb1209027b05f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35be1efe3167db48399e3ad6604c1afdb1d73a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/29bbaf801185fdd7105993f5df43b103973b14a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3be6c163efa4b8fe94a6630f729323af6ff39fa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/61cc78a640e31d4d138c51e3042bbe0ff565e665/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bd7cbe1c028db1da574b89418a19a11cd8b3b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/b37f91ff24cf5f77f516d266230a280cca546ed1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11583dace1c0b7b866b456eb469a805c84f70b6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_e5f1f70a77bd4d7b4e339b490f61986ff614feec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/394f7a54ebf3592a0ecb4fa40c8a51143b33b3ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_570833053b8d79242b72aec8dbae5a894df30633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/.android/build-cache/db7b7c7605f306b6a49e8d70efb87a11c1776eaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a1736b26a0f63530d3baa9bf14c9e11ca78bf71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="121e47a700d47084d39f276bf904dfdc3493b472">
+        <dex dex="/Users/towne/Documents/feiniu_android/App10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a28536e3713a75f5483fc680380020175bd89655/classes.dex" />
+    </item>
+
+</items>
